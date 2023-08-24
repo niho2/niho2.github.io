@@ -1,6 +1,6 @@
 {
-    "name": "webtest",
-    "short_name": "webtest",
+    "name": "fluttermaptest",
+    "short_name": "fluttermaptest",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

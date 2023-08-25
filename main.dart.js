@@ -86578,12 +86578,9 @@ s.toString
 r=$.aCI()
 o=new A.afX(s)
 q.m(0,o,r)
-s=s.navigator
-q=s.vendor
-q.toString
-s=s.appVersion
+s=s.navigator.userAgent
 s.toString
-if(B.c.B(q,"Apple"))B.c.B(s,"Version")
+if(B.c.B(s,"Safari"))B.c.B(s,"Chrome")
 A.a95(o,r,!0)
 $.aEh()
 $.ar8().an5("__url_launcher::link",A.aPU(),!1)

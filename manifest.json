@@ -1,6 +1,6 @@
 {
-    "name": "fluttermaptest",
-    "short_name": "fluttermaptest",
+    "name": "sipshare",
+    "short_name": "sipshare",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",

@@ -81484,7 +81484,7 @@ A.aeL.prototype={
 $1(a){var s=$.av,r=(s==null?$.av=$.bt():s).bC(0,"[DEFAULT]")
 A.b9(r,$.c8(),!0)
 s=A.ef(new A.bl(r))
-A.ea(s,s.gec().dg("/users")).di(0,this.a.c).dg("/drank").iV(0).bz(0,new A.aeK(this.b),t.P)},
+A.ea(s,s.gec().dg("/users")).di(0,this.a.c).dg("drank").iV(0).bz(0,new A.aeK(this.b),t.P)},
 $S:18}
 A.aeK.prototype={
 $1(a){var s,r,q,p,o,n,m,l,k,j,i,h
